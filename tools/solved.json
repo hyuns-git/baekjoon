@@ -1,1 +1,10 @@
-{}
+{
+ "10828": {
+  "category": "data_structure",
+  "lang": "C++",
+  "level": 7,
+  "path": "data_structure/10828",
+  "submittedAt": 1794963338544,
+  "title": "스택"
+ }
+}
