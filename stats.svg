@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="175" viewBox="0 0 495 175" role="img" aria-label="백준 풀이 0문제">
+<rect x="0.5" y="0.5" width="494" height="174" rx="10" fill="#ffffff" stroke="#e4e2e2"/>
+<text x="24" y="36" font-family="'Segoe UI','Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="16" font-weight="700" fill="#1d2228">hyuns-git · 백준 풀이 노트</text>
+<text x="24" y="92" font-family="'Segoe UI','Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="40" font-weight="700" fill="#1d2228">0</text>
+<text x="57" y="92" font-family="'Segoe UI','Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="14" fill="#66707b">/ 993 문제</text>
+<text x="300" y="66" font-family="'Segoe UI','Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="12" fill="#66707b">최고 난이도</text>
+<text x="300" y="90" font-family="'Segoe UI','Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="18" font-weight="700" fill="#2d2d2d">-</text>
+<rect x="24" y="112" width="447" height="10" rx="5" fill="#eef0f3"/>
+<circle cx="29" cy="144" r="5" fill="#ad5600"/>
+<text x="38" y="148" font-family="'Segoe UI','Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="12" fill="#1d2228">Bronze 0</text>
+<circle cx="104" cy="144" r="5" fill="#435f7a"/>
+<text x="113" y="148" font-family="'Segoe UI','Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="12" fill="#1d2228">Silver 0</text>
+<circle cx="179" cy="144" r="5" fill="#ec9a00"/>
+<text x="188" y="148" font-family="'Segoe UI','Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="12" fill="#1d2228">Gold 0</text>
+<circle cx="241" cy="144" r="5" fill="#27e2a4"/>
+<text x="250" y="148" font-family="'Segoe UI','Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="12" fill="#1d2228">Platinum 0</text>
+<circle cx="330" cy="144" r="5" fill="#00b4fc"/>
+<text x="339" y="148" font-family="'Segoe UI','Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="12" fill="#1d2228">Diamond 0</text>
+<circle cx="412" cy="144" r="5" fill="#ff0062"/>
+<text x="421" y="148" font-family="'Segoe UI','Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="12" fill="#1d2228">Ruby 0</text>
+<text x="471" y="36" text-anchor="end" font-family="'Segoe UI','Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="11" fill="#9aa3ad">2026-11-18 갱신</text>
+</svg>
