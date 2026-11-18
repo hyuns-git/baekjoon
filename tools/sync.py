@@ -101,7 +101,8 @@ def cmd_write(path):
         "",
         f"- 난이도: {tname} (solved.ac 기준)",
         f"- 분류: {cat_ko} (tony9402 문제집 {prob['n']:03d}번{', 추천' if prob['rec'] else ''})",
-        f"- 문제: https://www.acmicpc.net/problem/{pid}",
+        f"- 문제: https://www.acmicpc.net/problem/{pid}"
+        + (f" (보관본: https://web.archive.org/web/{prob['a']}/https://www.acmicpc.net/problem/{pid})" if prob.get("a") else ""),
         f"- 언어: {EXTS[ext]} ([main.{ext}](./main.{ext}))",
         f"- 제출: {when} (KST)",
         "",
